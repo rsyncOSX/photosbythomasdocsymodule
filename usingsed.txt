@@ -1,0 +1,5 @@
+## Global finn og erstatt
+find . -type f -name '*.md' -exec sed -i -r 's/old_text/new_text/g' {} +
+
+## Finne filer og slette
+find . -name "*.md-r" -exec /bin/rm {} \;

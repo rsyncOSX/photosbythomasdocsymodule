@@ -2,7 +2,7 @@
 author = "Thomas Evensen"
 title = "Grebes"
 date = "2024-04-23"
-tags = ["grebe", "meganser", "smew"]
+tags = ["grebe"]
 +++
 
 The  Horned Grebe is also a red listet bird. The Horned Grebe is, in my opinion, one of the most beautiful birds in Norway.

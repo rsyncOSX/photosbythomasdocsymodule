@@ -2,7 +2,7 @@
 author = "Thomas Evensen"
 title = "Divers"
 date = "2024-04-28"
-tags = ["divers"]
+tags = ["divers","smew","merganser"]
 +++
 
 A few diving ducks. The Smew is red listet. The photo of Smew is a female, a beautiful bird.
