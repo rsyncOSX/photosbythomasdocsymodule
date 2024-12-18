@@ -6,16 +6,21 @@ menu: { main: { weight: 20 } }
 
 #### Birds
 
-Most of all, I capture photos of birds. Bird photo is about 90% waiting and traveling. My knowledge of birds is still minimal and I am learning something new almost
-daily. Most important is; to respect the birds and not chase them. Learn about where the different species are and sit down.  There are also some photos of wild
-animals. Some animals were just discovered; e.g., I was in the right spot at the right time, and the camera was ready. Muskox and moose are captured
-on photo trips in Norway.
+Primarily, I capture photographs of birds. Bird photography is approximately 90% waiting and traveling. My knowledge of birds
+is still limited, and I am acquiring new information almost daily. The most crucial aspect is to respect the birds and refrain
+from chasing them. Familiarize yourself with the habitats of various species and find a suitable spot to observe them from a
+distance. Additionally, there are some photographs of wild animals. Some animals were recently discovered; for instance,
+I was fortunate enough to be in the right location at the right time, and my camera was prepared.
+Muskoxen and moose have been captured during photography excursions in Norway.
 
 #### Nature
 
-I have, as long as I can remember, loved being in nature. Photography has also been one of my hobbies for years. Nature and wildlife are under pressure.
-Many politicians do not understand the importance of preserving nature and wildlife. Every day I learn more about nature, how fragile it is, and how
-everything in nature is somehow connected. And humans are experts in destroying nature through ignorance and economic motivations. That frightens me.
+Since my childhood, I have had an affinity for to the nature. Photography has been another of my cherished hobbies
+for many years. However, I am deeply concerned about the pressing challenges facing nature and wildlife.
+Regrettably, many politicians fail to comprehend the paramount importance of preserving these ecosystems.
+Through my ongoing research, I have gained a profound understanding of the fragility of nature and the intricate
+interconnectedness of all living beings. Alas, humans have proven to be adept at destroying nature through ignorance
+and economic incentives, which fills me with profound apprehension.
 
 #### Sony gear
 
@@ -27,4 +32,5 @@ Tamron and Sigma, but all are sold. My gear now:
 - Sony FE 300mm F2.8 GM OSS lens
 - Sony FE 1.4x teleconverter
 
-The 600mm and 300mm lenses are superb lens for bird photography. The 1.4TC extends the 600mm to 840mm and the 300mm to 420mm, two stops down.
+The 600mm and 300mm lenses are superb lens for bird photography. The 1.4TC extends the 600mm to 840mm and the 300mm to 420mm,
+two stops down.
