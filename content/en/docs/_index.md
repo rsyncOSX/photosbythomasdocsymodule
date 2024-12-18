@@ -18,8 +18,8 @@ Muskoxen and moose have been captured during photography excursions in Norway.
 Since my childhood, I have had an affinity for the nature. Photography has been another of my cherished hobbies
 for many years. However, I am deeply concerned about the pressing challenges facing nature and wildlife.
 Regrettably, many politicians fail to comprehend the paramount importance of preserving these ecosystems.
-Through my ongoing research, I have gained a profound understanding of the fragility of nature and the intricate
-interconnectedness of all living beings. Alas, humans have proven to be adept at destroying nature through ignorance
+I have gained a deep understanding of the fragility of nature and the intricate
+interconnectedness of all living beings. Humans have proven to be adept at destroying nature through ignorance
 and economic incentives, which fills me with profound apprehension.
 
 #### Sony gear
