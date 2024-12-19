@@ -2,11 +2,10 @@
 author = "Thomas Evensen"
 title = "Seabirds"
 date = "2024-04-28"
-tags = ["seabird"]
+tags = ["seabird","tern","oystercatcher","cormorant","gannet"]
 +++
 
 Seabirds.
-
 
 
 | Latin      | UK | Norwegian |
@@ -32,7 +31,7 @@ Seabirds.
 
 {{< figure src="/images/seabirds/DSC03219_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Great Cormorant**
+**Great cormorant**
 
 {{< figure src="/images/seabirds/DSC06348_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 

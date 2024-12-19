@@ -4,7 +4,7 @@ linkTitle: Documentation
 menu: { main: { weight: 20 } }
 ---
 
-#### Birds
+**Birds**
 
 Primarily, I capture photographs of birds. Bird photography is approximately 90% waiting and traveling. My knowledge of birds
 is still limited, and I am acquiring new information almost daily. The most crucial aspect is to respect the birds and refrain
@@ -13,7 +13,9 @@ distance. Additionally, there are some photographs of wild animals. Some animals
 I was fortunate enough to be in the right location at the right time, and my camera was prepared.
 Muskoxen and moose have been captured during photography excursions in Norway.
 
-#### Nature
+Photos are located within [the blog section](/blog).
+
+**Nature**
 
 Since my childhood, I have had an affinity for the nature. Photography has been another of my cherished hobbies
 for many years. However, I am deeply concerned about the pressing challenges facing nature and wildlife.
@@ -22,7 +24,7 @@ I have gained a deep understanding of the fragility of nature and the intricate
 interconnectedness of all living beings. Humans have proven to be adept at destroying nature through ignorance
 and economic incentives, which fills me with profound apprehension.
 
-#### Sony gear
+**Sony gear**
 
 For the last 5 years, I have only used Sony gear. Previous Sony camera bodies are Sony fullframes A7iii and Sony A9ii. I have also used lenses from
 Tamron and Sigma, but all are sold. My gear now:

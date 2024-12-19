@@ -17,22 +17,22 @@ Black woodpecker, European green woodpecker, Lesser spotted woodpecker, Great sp
 | Dendrocopos major | [Great spotted woodpecker](https://en.wikipedia.org/wiki/Great_spotted_woodpecker) |  [Flaggspett](https://no.wikipedia.org/wiki/Flaggspett) |
 
 
-**European green**
+**European green woodpecker**
 
 {{< figure src="/images/woodpeckers/_DSC0436_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Black**
+**Black woodpecker**
 
 {{< figure src="/images/woodpeckers/_DSC0842_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/woodpeckers/_DSC0846_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/woodpeckers/DSC03394_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Great spotted**
+**Great spotted woodpecker**
 
 {{< figure src="/images/woodpeckers/DSC08383_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/woodpeckers/_DSC5739_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Lesser spotted**
+**Lesser spotted woodpecker**
 
 {{< figure src="/images/woodpeckers/_DSC4603_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/woodpeckers/_DSC3669_DxO.jpg" position="center" style="border-radius: 8px;" >}}

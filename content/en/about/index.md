@@ -14,9 +14,9 @@ Hello,
 
 My name is Thomas, and my email address is thomeven@gmail.com. I retired from work in April 2022 at the age of 62 and
 am a passionate wildlife photographer. In my retirement, I enjoy spending time with my grandchildren, pursuing photography,
-developing macOS application, and exploring the Norwegian mountains. In mid-November 2024, approximately
+developing macOS application, and exploring the Norwegian mountains and nature. In mid-November 2024, approximately
 80 birds and animals, primarily birds, can be found on this website. I update the website when I have taken new
-photographs that I believe are worthy of publication. I do not actively manage the site; rather, I use it as a
+photographs that I believe are worthy of publication. I do not actively promote the site; rather, I use it as a
 personal resource to learn more about the birds I photograph. Each bird and animal featured on the website
 includes links to Wikipedia articles for further information.
 

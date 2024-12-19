@@ -12,7 +12,7 @@ description: Some bird- and wildlige photos
 
 {{% blocks/lead color="primary" %}}
 
-This web shows a few of my bird- and wildlife photos.
+This website showcases a selection of my bird and Wildlife photographs.
 
 {{% /blocks/lead %}}
 {{% blocks/section color="dark" type="row" %}}

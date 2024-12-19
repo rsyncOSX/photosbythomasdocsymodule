@@ -17,13 +17,13 @@ Moose, Mountain hare,  Roe deer with cubs, Red deer, Red fox, Red squirrel.
 | Cervus elaphus | [Red deer](https://en.wikipedia.org/wiki/Red_deer) |  [Hjort](https://no.wikipedia.org/wiki/Hjort)|
 
 
-**Deer**
+**Roe deer**
 
 {{< figure src="/images/otheranimals/DSC00704_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/otheranimals/DSC02016_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/otheranimals/_DSC2557_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Squirrel**
+**Red Squirrel**
 
 {{< figure src="/images/otheranimals/DSC03498_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -32,14 +32,14 @@ Moose, Mountain hare,  Roe deer with cubs, Red deer, Red fox, Red squirrel.
 {{< figure src="/images/otheranimals/DSC06718_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/otheranimals/DSC08069_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Hare**
+**Mountain hare**
 
 {{< figure src="/images/otheranimals/DSC08563_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Fox**
+**Red Fox**
 
 {{< figure src="/images/otheranimals/DSC08591_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
-**Deer**
+**Red deer**
 
 {{< figure src="/images/otheranimals/DSC09127_DxO.jpg" position="center" style="border-radius: 8px;" >}}
