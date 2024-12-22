@@ -1,7 +1,7 @@
 baseURL: https://photosbythomas.netlify.app
-title: RsyncUI documents
+title: Photos by Thomas
 
-# googleAnalytics: G-T68PYCDHJ5
+googleAnalytics: G-XXTJGSFL7B
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
