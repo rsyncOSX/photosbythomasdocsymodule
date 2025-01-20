@@ -1,7 +1,7 @@
 baseURL: https://photosbythomas.netlify.app
 title: Photos by Thomas
 
-googleAnalytics: G-XXTJGSFL7B
+# googleAnalytics: G-XXTJGSFL7B
 
 # cSpell:ignore goldmark github hugo readingtime docsy subdir lastmod pygments linenos catmullrom norsk gu
 
