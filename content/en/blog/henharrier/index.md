@@ -26,5 +26,6 @@ The Hen Harrier is critically endangered in Norway. According to official number
 {{< figure src="/images/henharrier/DSC04968_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/henharrier/DSC04757_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/henharrier/_DSC1649_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/henharrier/_DSC8711_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/henharrier/_DSC9885_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/henharrier/_DSC8860_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/henharrier/_DSC8711_DxO.jpg" position="center" style="border-radius: 8px;" >}}

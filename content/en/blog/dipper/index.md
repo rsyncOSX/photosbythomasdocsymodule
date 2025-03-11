@@ -12,7 +12,7 @@ during the winter. After winter they move to the mountains for breeding.
 | --------- |  --------- |    --------- |
 | Cinclus cinclus | [White-throated dipper](https://en.wikipedia.org/wiki/White-throated_dipper) |  [Fossekall](https://no.wikipedia.org/wiki/Fossekall) |
 
-{{< figure src="/images/dipper/DSC01272_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/dipper/_DSC0901_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/dipper/DSC09995_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/dipper/DSC01617_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/dipper/DSC01706_DxO.jpg" position="center" style="border-radius: 8px;" >}}
