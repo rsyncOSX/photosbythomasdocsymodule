@@ -29,7 +29,7 @@ and economic incentives, which fills me with profound apprehension.
 For the last 5 years, I have only used Sony gear. Previous Sony camera bodies are Sony fullframes A7iii and Sony A9ii. I have also used lenses from
 Tamron and Sigma, but all are sold. My gear now:
 
-- Sony full-frame A1 camera body
+- Sony full-frame A1 mkii camera body
 - Sony FE 600mm F4.0 GM OSS lens
 - Sony FE 300mm F2.8 GM OSS lens
 - Sony FE 1.4x teleconverter
