@@ -26,7 +26,7 @@ and economic incentives, which fills me with profound apprehension.
 
 **Sony gear**
 
-For the last 5 years, I have only used Sony gear. Previous Sony camera bodies are Sony fullframes A7iii and Sony A9ii. I have also used lenses from
+For the last 6-7 years, I have only used Sony gear. Previous Sony camera bodies are Sony fullframes A7iii and Sony A9ii. I have also used lenses from
 Tamron and Sigma, but all are sold. My gear now:
 
 - Sony full-frame A1 mkii camera body
