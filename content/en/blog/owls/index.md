@@ -27,7 +27,7 @@ has often let me come very close, about 4-5 meters. Others again fly away if I c
 {{< figure src="/images/owls/_DSC6411_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/_DSC6652_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/_DSC6601_DxO.jpg" position="center" style="border-radius: 8px;" >}}
-{{< figure src="/images/owls/_DSC6831_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/owls/_DSC4060_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/owls/_DSC5901_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 **Short-eared owl**
