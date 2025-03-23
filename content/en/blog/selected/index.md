@@ -16,4 +16,4 @@ Only the forground, the bird is shown.
 
 {{< figure src="/images/selected/_DSC6655_DxO.png" position="center" style="border-radius: 8px;" >}}
 
-{{< figure src="/images/selected/_DSC1776_DxO.png" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/selected/_DSC1776_DxO.jpg" position="center" style="border-radius: 8px;" >}}
