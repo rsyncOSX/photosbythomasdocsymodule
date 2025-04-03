@@ -15,6 +15,7 @@ and it is constantly on the move searching for insects.
 | Emberiza schoeniclus  | [Common reed bunting](https://en.wikipedia.org/wiki/Common_reed_bunting) |   [Sivspurv](https://no.wikipedia.org/wiki/Sivspurv)     |
 | Curruca communis  | [Common whitethroat](https://en.wikipedia.org/wiki/Common_whitethroat) |   [Tornsanger](https://no.wikipedia.org/wiki/Tornsanger)     |
 | Certhia familiaris | [Eurasian treecreeper](https://en.wikipedia.org/wiki/Eurasian_treecreeper) |  [Trekryper](https://no.wikipedia.org/wiki/Trekryper) |
+| Alauda arvensis | [Eurasian skylark](https://en.wikipedia.org/wiki/Eurasian_skylark) |  [Sanglerke](https://no.wikipedia.org/wiki/Sanglerke) |
 
 **Coldcrest**
 
@@ -38,3 +39,7 @@ and it is constantly on the move searching for insects.
 **Common whitethroat**
 
 {{< figure src="/images/passerines/_DSC8678_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+
+**Eurasian skylark**
+
+{{< figure src="/images/passerines/_DSC4885_DxO.jpg" position="center" style="border-radius: 8px;" >}}
