@@ -12,6 +12,7 @@ Common buzzard. The buzzard is a very common bird of prey in Eastern Norway.
 | --------- |  --------- |    --------- |
 | Buteo buteo |  [Common buzzard](https://en.wikipedia.org/wiki/Common_buzzard) |  [Musvåk](https://no.wikipedia.org/wiki/Musv%C3%A5k) |
 
+{{< figure src="/images/commonbuzzard/_DSC8767_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/commonbuzzard/DSC01860_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/commonbuzzard/DSC06661_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 {{< figure src="/images/commonbuzzard/DSC07704_DxO.jpg" position="center" style="border-radius: 8px;" >}}
