@@ -15,7 +15,7 @@ Some finches.
 
 **Eurasian bullfinch**
 
-{{< figure src="/images/finches/DSC02646_DxO.jpg" position="center" style="border-radius: 8px;" >}}
+{{< figure src="/images/finches/_DSC5689_DxO.jpg" position="center" style="border-radius: 8px;" >}}
 
 **European greenfinch**
 
